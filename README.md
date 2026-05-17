@@ -1,6 +1,8 @@
 # RDRwate
 Rate doubly robust estimation for weighted average treatment effects Use RDRwate (WATE) With (In) R Software
 
+https://www.youtube.com/watch?v=qX-_M2qAw7Q
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
